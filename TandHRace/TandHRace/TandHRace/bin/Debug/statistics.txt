@@ -1,0 +1,4 @@
+Hare 0
+Tortoise 1
+Draws 0
+Total 1
